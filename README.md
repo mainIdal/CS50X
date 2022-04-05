@@ -1,4 +1,4 @@
 # CS50x
 https://cs50.harvard.edu/x/2022/
 
-Introduction to the intellectual enterprises of computer science and the art of programming. This course teaches students how to think algorithmically and solve problems efficiently. Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web programming. Languages include C, Python, and SQL plus HTML, CSS, and JavaScript. Problem sets inspired by the arts, humanities, social sciences, and sciences.
+Introduction to computer science's academic endeavors and the art of programming. This course teaches students how to think in terms of algorithms and how to solve problems efficiently. Abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web programming are the topics covered. C, Python, and SQL, as well as HTML, CSS, and JavaScript, are among the languages available. Arts, humanities, social sciences, and sciences have all inspired problem sets.
